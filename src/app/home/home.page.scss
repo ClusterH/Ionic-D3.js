@@ -1,0 +1,33 @@
+.ios, .md {
+
+    page-home {
+
+        .scroll-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #bars {
+            height: 80%;
+        }
+
+    }
+
+}
+.toolbar-md {
+     padding: 0px;
+     min-height: 0px;
+}
+.toolbar-title-md {
+    font-size: 2.5rem !important; // Default should be 2.0rem
+    color:#ffffff;
+    background: #f27a0a;
+    padding: 5px;
+}
+.enable-hover a:hover {
+    opacity: 1;
+}
+.header-color{
+    --background: orange;
+}
